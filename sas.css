@@ -1,0 +1,13 @@
+.site-head{
+    color: rgba(255, 0, 0, 0.705);
+    font-weight: bold;
+}
+
+
+.container{
+    max-width: 900px;
+    width: 100%;
+    padding-top: 30px;
+}
+
+
